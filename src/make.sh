@@ -10,7 +10,7 @@ function render() {
 
 function render_readme() {
  ls -1 | grep .md$ | grep -v README | xargs cat\
- | pandoc -s --to markdown --citeproc -o -\
+ | pandoc -s --to gfm --citeproc -o -\
  > ../README.md
 }
 
