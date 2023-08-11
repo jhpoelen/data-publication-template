@@ -1,7 +1,7 @@
 ---
-title: Big Bee Interaction Database
+title: Interactions between cats and dogs.
 author:
- - Seltmann, KC
+ - Kitty the Cat
  - Gary the Dog
 abstract: |
   This is my abstract

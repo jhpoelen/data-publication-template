@@ -2,14 +2,14 @@
 abstract: |
   This is my abstract
 author:
-- Seltmann, KC
+- Kitty the Cat
 - Gary the Dog
 bibliography: biblio.bib
 reference-section-title: References
 report:
 - alignment: alignment.tsv
 - interactions: interactions.tsv
-title: Big Bee Interaction Database
+title: Interactions between cats and dogs.
 ---
 
 # Introduction
