@@ -18,8 +18,10 @@ This is the introduction. According to (Rahal et al. 2023), all dogs are
 created equal.
 
 <figure>
-<img src="./figures/gary.png" alt="this is Gary the dog" />
-<figcaption aria-hidden="true">this is Gary the dog</figcaption>
+<img src="./figures/gary.png"
+alt="this is a caption for a picture of Gary the dog" />
+<figcaption aria-hidden="true">this is a caption for a picture of Gary
+the dog</figcaption>
 </figure>
 
 # Methods
@@ -35,8 +37,10 @@ created equal.
 This is my table caption
 
 <figure>
-<img src="./figures/gary.png" alt="this is Gary the dog" />
-<figcaption aria-hidden="true">this is Gary the dog</figcaption>
+<img src="./figures/gary.png"
+alt="This is a caption for a picture of Gary the dog" />
+<figcaption aria-hidden="true">This is a caption for a picture of Gary
+the dog</figcaption>
 </figure>
 
 # Discussion
