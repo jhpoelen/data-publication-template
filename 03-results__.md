@@ -1,3 +1,3 @@
 
-![this is Gary the dog](./figures/gary.png)
+![This is a caption for a picture of Gary the dog](./figures/gary.png)
 
